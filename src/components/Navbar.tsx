@@ -43,7 +43,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="tel:+923134909020"
+            href="tel:+923177787789"
             className="flex items-center gap-2 px-4 py-2 rounded-lg gradient-gold text-primary-foreground text-sm font-semibold hover:opacity-90 transition-opacity"
           >
             <Phone className="w-4 h-4" />
@@ -75,7 +75,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="tel:+923134909020"
+              href="tel:+923177787789"
               className="flex items-center justify-center gap-2 px-4 py-3 rounded-lg gradient-gold text-primary-foreground font-semibold"
             >
               <Phone className="w-4 h-4" />
