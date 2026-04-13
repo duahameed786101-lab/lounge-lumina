@@ -46,7 +46,7 @@ const HeroSection = () => {
           <a href="#contact" className="px-8 py-3 rounded-lg gradient-purple text-secondary-foreground font-semibold hover:opacity-90 transition-opacity box-glow-purple">
             Book Table
           </a>
-          <a href="tel:+923177787789" className="px-8 py-3 rounded-lg border border-primary/30 text-primary font-semibold hover:bg-primary/10 transition-colors">
+          <a href="tel:+923134909020" className="px-8 py-3 rounded-lg border border-primary/30 text-primary font-semibold hover:bg-primary/10 transition-colors">
             Call Now
           </a>
         </div>

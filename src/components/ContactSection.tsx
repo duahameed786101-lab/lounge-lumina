@@ -10,7 +10,7 @@ const ContactSection = () => {
     const whatsappMsg = encodeURIComponent(
       `Hi! I'm ${form.name}.\nPhone: ${form.phone}\n${form.message}`
     );
-    window.open(`https://wa.me/923177787789?text=${whatsappMsg}`, "_blank");
+    window.open(`https://wa.me/923134909020?text=${whatsappMsg}`, "_blank");
     setSubmitted(true);
     setTimeout(() => setSubmitted(false), 3000);
     setForm({ name: "", phone: "", message: "" });
@@ -45,7 +45,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Phone</p>
-                  <a href="tel:+923177787789" className="text-muted-foreground text-sm hover:text-primary transition-colors">+92 317 7787789</a>
+                  <a href="tel:+923134909020" className="text-muted-foreground text-sm hover:text-primary transition-colors">+92 313 4909020</a>
                 </div>
               </div>
               <div className="flex items-start gap-4">
