@@ -45,7 +45,8 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Phone</p>
-                  <a href="tel:+923134909020" className="text-muted-foreground text-sm hover:text-primary transition-colors">+92 313 4909020</a>
+                  <a href="tel:+923134909020" className="text-muted-foreground text-sm hover:text-primary transition-colors block">+92 313 4909020</a>
+                  <a href="tel:+923177787789" className="text-muted-foreground text-sm hover:text-primary transition-colors block">+92 317 7787789</a>
                 </div>
               </div>
               <div className="flex items-start gap-4">

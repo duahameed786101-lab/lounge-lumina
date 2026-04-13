@@ -49,6 +49,9 @@ const HeroSection = () => {
           <a href="tel:+923134909020" className="px-8 py-3 rounded-lg border border-primary/30 text-primary font-semibold hover:bg-primary/10 transition-colors">
             Call Now
           </a>
+          <a href="tel:+923177787789" className="px-8 py-3 rounded-lg border border-primary/30 text-primary font-semibold hover:bg-primary/10 transition-colors">
+            Call Now 2
+          </a>
         </div>
       </div>
     </section>
