@@ -1,4 +1,4 @@
-import { Instagram, Facebook } from "lucide-react";
+// Social icons as inline SVGs
 
 const Footer = () => {
   return (
